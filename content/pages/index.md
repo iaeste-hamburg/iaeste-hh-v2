@@ -168,7 +168,7 @@ sections:
       - url: /images/Auswartiges_Amt_Logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/daad_logo_suppl_de+en_v_messe_rgb.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
