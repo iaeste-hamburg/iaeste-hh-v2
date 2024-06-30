@@ -159,7 +159,7 @@ sections:
     type: DividerSection
   - subtitle: 'We thank our regional partners for their support:'
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/TUHH_logo-wortmarke_en_rgb.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
