@@ -573,5 +573,7 @@ seo:
       content: IAESTE Hamburg e.V.
     - type: MetaTag
       property: 'og:image'
+      content: >-
+        https://preview--iaeste-hh-staging-2024-16c03.stackbit.dev/images/IAESTEHHLogo1.png
 type: PageLayout
 ---
