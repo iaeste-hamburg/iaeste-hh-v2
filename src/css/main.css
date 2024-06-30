@@ -298,7 +298,10 @@
 
 /* Assuming the container that should be at least 240px wide is the parent div */
 @container (min-width: 240px) {
-    .sb-component-img-block > img {
+    .iaeste-logo-1 > div > img {
+        max-width: 50% !important;
+    },
+    .iaeste-logo-1 > div > img {
         max-width: 50% !important;
     }
 }
