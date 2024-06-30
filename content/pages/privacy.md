@@ -21,7 +21,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Datenschutzerklärung
     items:
       - type: FeaturedItem
         title: Account Executive
