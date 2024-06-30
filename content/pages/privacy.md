@@ -16,7 +16,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Privacy Policy
       color: text-dark
       styles:
         self:
