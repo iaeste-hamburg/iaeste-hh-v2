@@ -59,7 +59,7 @@ sections:
           explicabo.
         actions:
           - type: Button
-            label: Go to incoming
+            label: Go to Incoming
             altText: ''
             url: /gggggg
             showIcon: false
