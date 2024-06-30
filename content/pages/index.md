@@ -10,16 +10,7 @@ sections:
     subtitle: Work. Experience. Discover.
     text: |
       Main value proposition for students and employers
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
