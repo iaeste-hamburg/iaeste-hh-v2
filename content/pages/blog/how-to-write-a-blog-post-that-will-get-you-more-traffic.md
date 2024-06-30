@@ -43,30 +43,7 @@ content: >-
   sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris
   gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
   justo.
-bottomSections:
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Items on sale
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    items: []
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-8
-          - pr-8
-        justifyContent: flex-start
-      subtitle:
-        textAlign: center
+bottomSections: []
 isFeatured: true
 isDraft: false
 seo:
