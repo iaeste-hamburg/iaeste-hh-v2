@@ -165,7 +165,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Auswartiges_Amt_Logo.svg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
