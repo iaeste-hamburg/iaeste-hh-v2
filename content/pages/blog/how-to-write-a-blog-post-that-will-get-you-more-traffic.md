@@ -59,7 +59,7 @@ author: content/data/person4.json
 ---
 #### Datenschutzerklärung
 
-Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der IAESTE Hamburg Praktikavermittlung e.V.. Eine Nutzung der Internetseiten der IAESTE Hamburg Praktikavermittlung e.V. ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.
+Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für den Vorstand des IAESTE Hamburg Praktikavermittlung e.V.. Eine Nutzung der Internetseiten des IAESTE Hamburg Praktikavermittlung e.V. ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.
 
 Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der Anschrift, E-Mail-Adresse oder Telefonnummer einer betroffenen Person, erfolgt stets im Einklang mit der Datenschutz-Grundverordnung und in Übereinstimmung mit den für die IAESTE Hamburg Praktikavermittlung e.V. geltenden landesspezifischen Datenschutzbestimmungen. Mittels dieser Datenschutzerklärung möchte unser Unternehmen die Öffentlichkeit über Art, Umfang und Zweck der von uns erhobenen, genutzten und verarbeiteten personenbezogenen Daten informieren. Ferner werden betroffene Personen mittels dieser Datenschutzerklärung über die ihnen zustehenden Rechte aufgeklärt.
 
@@ -67,7 +67,7 @@ Die IAESTE Hamburg Praktikavermittlung e.V. hat als für die Verarbeitung Verant
 
 #### 1. Begriffsbestimmungen
 
-Die Datenschutzerklärung der IAESTE Hamburg Praktikavermittlung e.V. beruht auf den Begrifflichkeiten, die durch den Europäischen Richtlinien- und Verordnungsgeber beim Erlass der Datenschutz-Grundverordnung (DS-GVO) verwendet wurden. Unsere Datenschutzerklärung soll sowohl für die Öffentlichkeit als auch für unsere Kunden und Geschäftspartner einfach lesbar und verständlich sein. Um dies zu gewährleisten, möchten wir vorab die verwendeten Begrifflichkeiten erläutern.
+Die Datenschutzerklärung des IAESTE Hamburg Praktikavermittlung e.V. beruht auf den Begrifflichkeiten, die durch den Europäischen Richtlinien- und Verordnungsgeber beim Erlass der Datenschutz-Grundverordnung (DS-GVO) verwendet wurden. Unsere Datenschutzerklärung soll sowohl für die Öffentlichkeit als auch für unsere Kunden und Geschäftspartner einfach lesbar und verständlich sein. Um dies zu gewährleisten, möchten wir vorab die verwendeten Begrifflichkeiten erläutern.
 
 Wir verwenden in dieser Datenschutzerklärung unter anderem die folgenden Begriffe:
 
@@ -129,7 +129,7 @@ Hamburg
 
 Tel.: 040428784752
 
-E-Mail: info\@iaeste-hamburg.de
+E-Mail: <info@iaeste-hamburg.de>
 
 Website: www,iaeste-hamburg.de
 
@@ -149,7 +149,7 @@ Deutschland
 
 Tel.: 444333222111
 
-E-Mail: info\@iaeste-hamburg.de
+E-Mail: <info@iaeste-hamburg.de>
 
 Website: www,iaeste-hamburg.de
 
@@ -157,7 +157,7 @@ Jede betroffene Person kann sich jederzeit bei allen Fragen und Anregungen zum D
 
 #### 4. Erfassung von allgemeinen Daten und Informationen
 
-Die Internetseite der IAESTE Hamburg Praktikavermittlung e.V. erfasst mit jedem Aufruf der Internetseite durch eine betroffene Person oder ein automatisiertes System eine Reihe von allgemeinen Daten und Informationen. Diese allgemeinen Daten und Informationen werden in den Logfiles des Servers gespeichert. Erfasst werden können die (1) verwendeten Browsertypen und Versionen, (2) das vom zugreifenden System verwendete Betriebssystem, (3) die Internetseite, von welcher ein zugreifendes System auf unsere Internetseite gelangt (sogenannte Referrer), (4) die Unterwebseiten, welche über ein zugreifendes System auf unserer Internetseite angesteuert werden, (5) das Datum und die Uhrzeit eines Zugriffs auf die Internetseite, (6) eine Internet-Protokoll-Adresse (IP-Adresse), (7) der Internet-Service-Provider des zugreifenden Systems und (8) sonstige ähnliche Daten und Informationen, die der Gefahrenabwehr im Falle von Angriffen auf unsere informationstechnologischen Systeme dienen.
+Die Internetseite des IAESTE Hamburg Praktikavermittlung e.V. erfasst mit jedem Aufruf der Internetseite durch eine betroffene Person oder ein automatisiertes System eine Reihe von allgemeinen Daten und Informationen. Diese allgemeinen Daten und Informationen werden in den Logfiles des Servers gespeichert. Erfasst werden können die (1) verwendeten Browsertypen und Versionen, (2) das vom zugreifenden System verwendete Betriebssystem, (3) die Internetseite, von welcher ein zugreifendes System auf unsere Internetseite gelangt (sogenannte Referrer), (4) die Unterwebseiten, welche über ein zugreifendes System auf unserer Internetseite angesteuert werden, (5) das Datum und die Uhrzeit eines Zugriffs auf die Internetseite, (6) eine Internet-Protokoll-Adresse (IP-Adresse), (7) der Internet-Service-Provider des zugreifenden Systems und (8) sonstige ähnliche Daten und Informationen, die der Gefahrenabwehr im Falle von Angriffen auf unsere informationstechnologischen Systeme dienen.
 
 Bei der Nutzung dieser allgemeinen Daten und Informationen zieht die IAESTE Hamburg Praktikavermittlung e.V. keine Rückschlüsse auf die betroffene Person. Diese Informationen werden vielmehr benötigt, um (1) die Inhalte unserer Internetseite korrekt auszuliefern, (2) die Inhalte unserer Internetseite sowie die Werbung für diese zu optimieren, (3) die dauerhafte Funktionsfähigkeit unserer informationstechnologischen Systeme und der Technik unserer Internetseite zu gewährleisten sowie (4) um Strafverfolgungsbehörden im Falle eines Cyberangriffes die zur Strafverfolgung notwendigen Informationen bereitzustellen. Diese anonym erhobenen Daten und Informationen werden durch die IAESTE Hamburg Praktikavermittlung e.V. daher einerseits statistisch und ferner mit dem Ziel ausgewertet, den Datenschutz und die Datensicherheit in unserem Unternehmen zu erhöhen, um letztlich ein optimales Schutzniveau für die von uns verarbeiteten personenbezogenen Daten sicherzustellen. Die anonymen Daten der Server-Logfiles werden getrennt von allen durch eine betroffene Person angegebenen personenbezogenen Daten gespeichert.
 
@@ -219,9 +219,9 @@ Entfällt der Speicherungszweck oder läuft eine vom Europäischen Richtlinien- 
 
     *   Die personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gemäß Art. 8 Abs. 1 DS-GVO erhoben.
 
-    Sofern einer der oben genannten Gründe zutrifft und eine betroffene Person die Löschung von personenbezogenen Daten, die bei der IAESTE Hamburg Praktikavermittlung e.V. gespeichert sind, veranlassen möchte, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der IAESTE Hamburg Praktikavermittlung e.V. wird veranlassen, dass dem Löschverlangen unverzüglich nachgekommen wird.
+    Sofern einer der oben genannten Gründe zutrifft und eine betroffene Person die Löschung von personenbezogenen Daten, die bei IAESTE Hamburg Praktikavermittlung e.V. gespeichert sind, veranlassen möchte, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der IAESTE Hamburg Praktikavermittlung e.V. wird veranlassen, dass dem Löschverlangen unverzüglich nachgekommen wird.
 
-    Wurden die personenbezogenen Daten von der IAESTE Hamburg Praktikavermittlung e.V. öffentlich gemacht und ist unser Unternehmen als Verantwortlicher gemäß Art. 17 Abs. 1 DS-GVO zur Löschung der personenbezogenen Daten verpflichtet, so trifft die IAESTE Hamburg Praktikavermittlung e.V. unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um andere für die Datenverarbeitung Verantwortliche, welche die veröffentlichten personenbezogenen Daten verarbeiten, darüber in Kenntnis zu setzen, dass die betroffene Person von diesen anderen für die Datenverarbeitung Verantwortlichen die Löschung sämtlicher Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt hat, soweit die Verarbeitung nicht erforderlich ist. Der Mitarbeiter der IAESTE Hamburg Praktikavermittlung e.V. wird im Einzelfall das Notwendige veranlassen.
+    Wurden die personenbezogenen Daten von IAESTE Hamburg Praktikavermittlung e.V. öffentlich gemacht und ist unser Verein als Verantwortlicher gemäß Art. 17 Abs. 1 DS-GVO zur Löschung der personenbezogenen Daten verpflichtet, so trifft die IAESTE Hamburg Praktikavermittlung e.V. unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um andere für die Datenverarbeitung Verantwortliche, welche die veröffentlichten personenbezogenen Daten verarbeiten, darüber in Kenntnis zu setzen, dass die betroffene Person von diesen anderen für die Datenverarbeitung Verantwortlichen die Löschung sämtlicher Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt hat, soweit die Verarbeitung nicht erforderlich ist. Der Mitarbeiter der IAESTE Hamburg Praktikavermittlung e.V. wird im Einzelfall das Notwendige veranlassen.
 
 *   #### e)    Recht auf Einschränkung der Verarbeitung
 
@@ -235,7 +235,7 @@ Entfällt der Speicherungszweck oder läuft eine vom Europäischen Richtlinien- 
 
     *   Die betroffene Person hat Widerspruch gegen die Verarbeitung gem. Art. 21 Abs. 1 DS-GVO eingelegt und es steht noch nicht fest, ob die berechtigten Gründe des Verantwortlichen gegenüber denen der betroffenen Person überwiegen.
 
-    Sofern eine der oben genannten Voraussetzungen gegeben ist und eine betroffene Person die Einschränkung von personenbezogenen Daten, die bei der IAESTE Hamburg Praktikavermittlung e.V. gespeichert sind, verlangen möchte, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der IAESTE Hamburg Praktikavermittlung e.V. wird die Einschränkung der Verarbeitung veranlassen.
+    Sofern eine der oben genannten Voraussetzungen gegeben ist und eine betroffene Person die Einschränkung von personenbezogenen Daten, die bei IAESTE Hamburg Praktikavermittlung e.V. gespeichert sind, verlangen möchte, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden. Der Mitarbeiter der IAESTE Hamburg Praktikavermittlung e.V. wird die Einschränkung der Verarbeitung veranlassen.
 
 *   #### f)     Recht auf Datenübertragbarkeit
 
@@ -243,7 +243,7 @@ Entfällt der Speicherungszweck oder läuft eine vom Europäischen Richtlinien- 
 
     Ferner hat die betroffene Person bei der Ausübung ihres Rechts auf Datenübertragbarkeit gemäß Art. 20 Abs. 1 DS-GVO das Recht, zu erwirken, dass die personenbezogenen Daten direkt von einem Verantwortlichen an einen anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist und sofern hiervon nicht die Rechte und Freiheiten anderer Personen beeinträchtigt werden.
 
-    Zur Geltendmachung des Rechts auf Datenübertragbarkeit kann sich die betroffene Person jederzeit an einen Mitarbeiter der IAESTE Hamburg Praktikavermittlung e.V. wenden.
+    Zur Geltendmachung des Rechts auf Datenübertragbarkeit kann sich die betroffene Person jederzeit an einen Mitarbeiter des IAESTE Hamburg Praktikavermittlung e.V. wenden.
 
 *   #### g)    Recht auf Widerspruch
 
@@ -287,7 +287,7 @@ Sofern die betroffene Person gleichzeitig bei Instagram eingeloggt ist, erkennt 
 
 Instagram erhält über die Instagram-Komponente immer dann eine Information darüber, dass die betroffene Person unsere Internetseite besucht hat, wenn die betroffene Person zum Zeitpunkt des Aufrufs unserer Internetseite gleichzeitig bei Instagram eingeloggt ist; dies findet unabhängig davon statt, ob die betroffene Person die Instagram-Komponente anklickt oder nicht. Ist eine derartige Übermittlung dieser Informationen an Instagram von der betroffenen Person nicht gewollt, kann diese die Übermittlung dadurch verhindern, dass sie sich vor einem Aufruf unserer Internetseite aus ihrem Instagram-Account ausloggt.
 
-Weitere Informationen und die geltenden Datenschutzbestimmungen von Instagram können unter https\://help.instagram.com/155833707900388 und https\://www\.instagram.com/about/legal/privacy/ abgerufen werden.
+Weitere Informationen und die geltenden Datenschutzbestimmungen von Instagram können unter <https://help.instagram.com/155833707900388> und <https://www.instagram.com/about/legal/privacy/> abgerufen werden.
 
 #### 9. Rechtsgrundlage der Verarbeitung
 
@@ -310,6 +310,3 @@ Wir klären Sie darüber auf, dass die Bereitstellung personenbezogener Daten zu
 Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.
 
 Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die als [Externer Datenschutzbeauftragter Fürth](https://dg-datenschutz.de/datenschutz-dienstleistungen/externer-datenschutzbeauftragter/) tätig ist, in Kooperation mit dem [IT- und Datenschutzrecht Anwalt Christian Solmecke](https://www.wbs-law.de/it-recht/datenschutzrecht/) erstellt.
-
-
-
