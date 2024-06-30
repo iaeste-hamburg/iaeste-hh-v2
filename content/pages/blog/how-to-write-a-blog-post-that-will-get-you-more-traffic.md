@@ -3,7 +3,12 @@ type: PostLayout
 title: Privacy Policy
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2018-06-04'
-excerpt: ''
+excerpt: >-
+  Datenschutz hat einen besonders hohen Stellenwert für den Vorstand des IAESTE
+  Hamburg Praktikavermittlung e.V. Eine Nutzung der Internetseiten des IAESTE
+  Hamburg Praktikavermittlung e.V. ist grundsätzlich ohne jede Angabe
+  personenbezogener Daten möglich. Sofern eine betroffene Person besondere
+  Services unseres Unternehmens über unsere Internetseite in Anspruch...
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
