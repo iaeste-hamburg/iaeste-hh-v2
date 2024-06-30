@@ -40,7 +40,7 @@ sections:
       url: /images/jonas-tebbe-j22K61_1peg-unsplash-33fec401.jpg
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'IAESTE:One Purpose'
       color: text-dark
       styles:
         self:
