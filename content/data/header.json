@@ -35,7 +35,7 @@
             "label": "Incoming",
             "altText": "Coming to Hamburg for an internship",
             "url": "/incoming",
-            "icon": "arrowRight",
+            "icon": "arrowLeft",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
