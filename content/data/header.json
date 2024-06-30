@@ -23,7 +23,7 @@
         },
         {
             "label": "Outgoing",
-            "altText": "Blog",
+            "altText": "Outgoing / Going on an internship",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
