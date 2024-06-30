@@ -293,7 +293,7 @@
 }
 
 #logo-navbar {
-    max-width: 20%;
+    max-width: 20% !important;
 }
 
 @layer utilities {
