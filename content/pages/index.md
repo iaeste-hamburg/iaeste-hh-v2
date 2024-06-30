@@ -564,7 +564,7 @@ seo:
   addTitleSuffix: true
   metaTags:
     - type: MetaTag
-      property: 'og:url'
+      property: 'og:description'
       content: >-
         Specialized internships in science and technology. Worldwide. For a more
         connected world!
