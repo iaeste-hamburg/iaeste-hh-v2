@@ -177,7 +177,7 @@ sections:
       - url: /images/olympus-logo.svg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/karamik_logo.svg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
