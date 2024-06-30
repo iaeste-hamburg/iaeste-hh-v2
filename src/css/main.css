@@ -292,6 +292,10 @@
     }
 }
 
+#logo-navbar {
+    width: 10%;
+}
+
 @layer utilities {
     .underline-line-through {
         text-decoration-line: underline line-through
