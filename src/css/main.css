@@ -298,7 +298,7 @@
 
 /* Assuming the container that should be at least 240px wide is the parent div */
 @container (min-width: 240px) {
-    .iaeste-logo-1.sb-image-strip-content.flex.justify-around > div > img {
+    .sb-component-img-block > img {
         max-width: 50% !important;
     }
 }
