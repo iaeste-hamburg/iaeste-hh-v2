@@ -565,5 +565,8 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:description'
+      content: >-
+        Specialized internships in science and technology. Worldwide. For a more
+        connected world!
 type: PageLayout
 ---
