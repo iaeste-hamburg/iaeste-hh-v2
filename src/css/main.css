@@ -296,6 +296,10 @@
     max-width: 20% !important;
 }
 
+.iaeste-logo-1 .iaeste-logo-2 {
+    max-width:  20% !important;
+}
+
 @layer utilities {
     .underline-line-through {
         text-decoration-line: underline line-through
