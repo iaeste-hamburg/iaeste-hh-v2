@@ -562,5 +562,7 @@ seo:
   socialImage: /images/IAESTEHHLogo1.png
   type: Seo
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
