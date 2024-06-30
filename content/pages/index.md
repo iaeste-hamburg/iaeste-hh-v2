@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: GEISHA
+      text: COVER HERO
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
