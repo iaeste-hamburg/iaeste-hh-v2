@@ -88,6 +88,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
+              padding:
+                - pt-28
       - title: Internship anywhere on Earth?
         subtitle: The Job Stuff
         text: >-
