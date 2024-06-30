@@ -558,7 +558,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: 'IAESTE Hamburg e.V. '
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Find funded specialized internships, globally.'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
