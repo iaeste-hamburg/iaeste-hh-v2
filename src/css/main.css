@@ -296,8 +296,11 @@
     max-width: 20% !important;
 }
 
-.iaeste-logo-1.sb-image-strip-content.flex.justify-around > div > img {
-    max-width:  50% !important;
+/* Assuming the container that should be at least 240px wide is the parent div */
+@container (min-width: 240px) {
+    .iaeste-logo-1.sb-image-strip-content.flex.justify-around > div > img {
+        max-width: 50% !important;
+    }
 }
 
 @layer utilities {
