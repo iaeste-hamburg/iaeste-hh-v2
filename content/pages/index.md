@@ -171,8 +171,7 @@ sections:
       - url: /images/daad_logo_suppl_de+en_v_messe_rgb.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
       - url: /images/olympus-logo.svg
         altText: Sanity logo
