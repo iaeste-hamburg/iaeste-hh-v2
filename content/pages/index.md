@@ -55,7 +55,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/jared-erondu-j4PaE7E2_Ws-unsplash.jpg
+      url: /images/jonas-tebbe-j22K61_1peg-unsplash-33fec401.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
