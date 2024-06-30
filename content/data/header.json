@@ -46,7 +46,7 @@
             "label": "For Employers",
             "altText": "",
             "url": "/employers",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
