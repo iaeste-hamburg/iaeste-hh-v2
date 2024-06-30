@@ -1,86 +1,44 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/IAESTEHHLogo1-light.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Work. Experience. Discover.\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "LC Links",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "You + IAESTE ...",
+                "url": "/members",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "You + IAESTE ..."
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "IAESTE Documentation",
+                "url": "/gitbooklink",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "How IAESTE works ... really works ..."
             }
         ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
+            "altText": "Instagram",
+            "url": "https://www.instagram.com/iaestehamburg",
+            "icon": "instagram",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:infowoooowiaeste-hamburg.de",
             "icon": "mail",
             "type": "Social"
         }
@@ -88,7 +46,7 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/",
+            "url": "/terms",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -96,7 +54,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
