@@ -53,8 +53,8 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
-            "url": "/privacy",
+            "label": "Privacy Policy",
+            "url": "/blog/privacypolicy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
