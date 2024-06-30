@@ -2,7 +2,7 @@
 type: PostLayout
 title: Privacy Policy
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
-date: '2018-06-18'
+date: '2018-06-04'
 excerpt: fffffffffffffffffffffffffff
 featuredImage:
   altText: Thumbnail
