@@ -45,7 +45,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:infowoooowiaeste-hamburg.de",
             "icon": "mail",
             "type": "Social"
         }
