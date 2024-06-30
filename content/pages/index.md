@@ -46,7 +46,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Connecting students and employers accros more than 80 countries worldwide.
+    subtitle: >-
+      Connecting students and employers accross more than 80 countries
+      worldwide.
     items:
       - type: FeaturedItem
         title: 500k
