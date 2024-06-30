@@ -25,7 +25,7 @@
             "label": "Outgoing",
             "altText": "Outgoing / Going on an internship",
             "url": "/outgoing",
-            "icon": "arrowRight",
+            "icon": "arrowUp",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
