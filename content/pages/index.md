@@ -564,6 +564,6 @@ seo:
   addTitleSuffix: true
   metaTags:
     - type: MetaTag
-      property: 'og:url'
+      property: 'og:description'
 type: PageLayout
 ---
