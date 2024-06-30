@@ -572,5 +572,6 @@ seo:
       property: 'og:title'
       content: IAESTE Hamburg e.V.
     - type: MetaTag
+      property: 'og:image'
 type: PageLayout
 ---
