@@ -50,9 +50,9 @@
         },
         {
             "type": "Link",
-            "label": "About Us // Benefits",
+            "label": "For Employers",
             "altText": "",
-            "url": "/careers",
+            "url": "/employers",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -61,9 +61,9 @@
         },
         {
             "type": "Link",
-            "label": "For Employers",
+            "label": "About Us // Benefits",
             "altText": "",
-            "url": "/employers",
+            "url": "/careers",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
