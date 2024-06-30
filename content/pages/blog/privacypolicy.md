@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Privacy Policy
-slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
+slug: privacypolicy
 date: '2018-06-04'
 excerpt: >-
   Datenschutz hat einen besonders hohen Stellenwert für den Vorstand des IAESTE
