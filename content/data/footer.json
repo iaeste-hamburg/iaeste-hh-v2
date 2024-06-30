@@ -54,7 +54,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/privacy",
+            "url": "/blog/privacypolicy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
