@@ -24,7 +24,7 @@
         {
             "label": "Outgoing",
             "altText": "Outgoing / Going on an internship",
-            "url": "/blog",
+            "url": "/outgoing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
