@@ -297,13 +297,13 @@
 }
 
 /* Assuming the container that should be at least 240px wide is the parent div */
-@container (min-width: 240px) {
-    .iaeste-logo-1 > div > img {
-        max-width: 50% !important;
-    }
-    .iaeste-logo-2 > div > img {
-        max-width: 50% !important;
-    }
+
+.iaeste-logo-1 > div > img {
+    max-width: 50% !important;
+}
+
+.iaeste-logo-2 > div > img {
+    max-width: 50% !important;
 }
 
 @layer utilities {
