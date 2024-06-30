@@ -296,7 +296,7 @@
     max-width: 20% !important;
 }
 
-.iaeste-logo-1 .iaeste-logo-2 {
+.iaeste-logo-1.sb-image-strip-content.flex.justify-around > div > img {
     max-width:  50% !important;
 }
 
