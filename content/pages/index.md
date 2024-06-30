@@ -90,6 +90,7 @@ sections:
               borderRadius: x-large
               padding:
                 - pt-28
+                - pl-9
       - title: Internship anywhere on Earth?
         subtitle: The Job Stuff
         text: >-
