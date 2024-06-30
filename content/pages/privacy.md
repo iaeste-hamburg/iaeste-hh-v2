@@ -103,7 +103,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Privacy Policy
       color: text-dark
       styles:
         self:
