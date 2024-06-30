@@ -101,7 +101,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: Go To Outgoing
             altText: ''
             url: /fffffff
             showIcon: false
