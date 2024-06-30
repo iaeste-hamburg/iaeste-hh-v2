@@ -128,12 +128,12 @@ function ImageGalleryAnimatedGrid({ images = [], motion, hasTopMargin, hasAnnota
                             motion === 'move-to-left' ? 'sb-animate-slide-left' : 'sb-animate-slide-right'
                         )}
                     >
-                        <div className="sb-image-strip-content flex justify-around" {...(hasAnnotations && { 'data-sb-field-path': '.images' })}>
+                        <div className="iaeste-logo-1 sb-image-strip-content flex justify-around" {...(hasAnnotations && { 'data-sb-field-path': '.images' })}>
                             {images.map((image, index) => (
                                 <ImageBlock key={index} {...image} {...(hasAnnotations && { 'data-sb-field-path': `.${index}` })} />
                             ))}
                         </div>
-                        <div className="sb-image-strip-content flex justify-around" {...(hasAnnotations && { 'data-sb-field-path': '.images' })}>
+                        <div className="max-width: 20%; sb-image-strip-content flex justify-around" {...(hasAnnotations && { 'data-sb-field-path': '.images' })}>
                             {images.map((image, index) => (
                                 <ImageBlock key={index} {...image} {...(hasAnnotations && { 'data-sb-field-path': `.${index}` })} />
                             ))}
