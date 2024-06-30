@@ -9,15 +9,6 @@
         "title": "LC Links",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "You + IAESTE ...",
                 "url": "/members",
                 "icon": "arrowRight",
