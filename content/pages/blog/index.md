@@ -1,7 +1,7 @@
 ---
 title: Blog
 slug: /blog
-numOfPostsPerPage: 0
+numOfPostsPerPage: -1
 enableSearch: false
 topSections: []
 styles:
