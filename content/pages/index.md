@@ -559,7 +559,7 @@ sections:
 seo:
   metaTitle: 'IAESTE Hamburg e.V. '
   metaDescription: 'Find funded specialized internships, globally.'
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/IAESTEHHLogo1.png
   type: Seo
   addTitleSuffix: true
 type: PageLayout
