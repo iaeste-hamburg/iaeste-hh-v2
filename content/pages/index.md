@@ -7,7 +7,7 @@ sections:
       text: IAESTE Hamburg
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Work. Experience. Discover.
     text: |
       Main value proposition for students and employers
     actions:
