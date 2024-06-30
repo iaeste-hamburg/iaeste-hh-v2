@@ -56,6 +56,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/jared-erondu-j4PaE7E2_Ws-unsplash.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
