@@ -45,7 +45,7 @@
             "label": "For Companies",
             "altText": "How Companies can benefit from working with IAESTE A.s.b.l.",
             "links": [],
-            "labelStyle": "primary",
+            "labelStyle": "secondary",
             "type": "SubNav"
         },
         {
