@@ -28,7 +28,7 @@
             },
             {
                 "label": "IAESTE Documentation",
-                "url": "/",
+                "url": "/gitbooklink",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
