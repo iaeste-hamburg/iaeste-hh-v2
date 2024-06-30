@@ -46,7 +46,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Connecting students and employers in more than 80 countries worldwide.
     items:
       - type: FeaturedItem
         title: 500k
