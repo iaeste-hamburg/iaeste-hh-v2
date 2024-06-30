@@ -53,13 +53,6 @@
             "elementId": ""
         },
         {
-            "label": "For Companies",
-            "altText": "How Companies can benefit from working with IAESTE A.s.b.l.",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
             "type": "Link",
             "label": "About Us // Benefits",
             "altText": "",
