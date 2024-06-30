@@ -568,5 +568,6 @@ seo:
       content: >-
         Specialized internships in science and technology. Worldwide. For a more
         connected world!
+    - type: MetaTag
 type: PageLayout
 ---
