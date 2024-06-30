@@ -23,8 +23,6 @@
     }
 }
 
-#logo-navbar 
-
 @layer components {
     .sb-markdown {
         @apply leading-relaxed;
