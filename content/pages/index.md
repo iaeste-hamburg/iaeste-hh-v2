@@ -162,7 +162,7 @@ sections:
       - url: /images/TUHH_logo-wortmarke_en_rgb.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/mankiewicz.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/Auswartiges_Amt_Logo.svg
